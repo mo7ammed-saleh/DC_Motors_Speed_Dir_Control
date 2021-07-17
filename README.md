@@ -22,7 +22,7 @@
    - Note that the potentiometer read an analog value from 0-1023 and we should convert it using map() command into PWM which is from 0-255.
    - To consider safety, the motors will not start until the push button is pressed for the first time. 
 
-    <p align='center'><img width="60%" src="https://github.com/mo7ammed-saleh/DC_Motors_Speed_Dir_Control/blob/main/Circuit%20Diagram/2-%20DC%20Motor%20Control%20with%20PB%20and%20Potmeter.PNG"/>
+    <p align='center'><img width="90%" src="https://github.com/mo7ammed-saleh/DC_Motors_Speed_Dir_Control/blob/main/Circuit%20Diagram/2-%20DC%20Motor%20Control%20with%20PB%20and%20Potmeter.PNG"/>
     </p>  
     
  3. Printing the max value of potentiometer which is max PWM value 
